@@ -1,2 +1,2 @@
 # Nvidia-shadowplay-Priority
-i made these reg files nvidia shadowplay cause input lag option enabled that makes it capable of capturing the desktop
+I made these reg files Nvidia shadowplay was causing input lag when you enabled the option which makes it capable of capturing the desktop
